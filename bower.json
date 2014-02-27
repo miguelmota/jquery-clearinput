@@ -1,0 +1,25 @@
+{
+  "name": "jquery-clearinput",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/jquery-clearinput",
+  "description": "A simple jQuery plugin to clear input fields",
+  "main": "jquery.clearinput.js",
+  "keywords": [
+    "jquery",
+    "clear",
+    "input",
+    "field",
+    "plugin"
+  ],
+  "authors": [
+    "Miguel Mota"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

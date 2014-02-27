@@ -1,0 +1,22 @@
+{
+  "name": "clearinput",
+  "version": "0.0.1",
+  "title": "jQuery ClearInput",
+  "author": {
+    "name": "Miguel Mota",
+    "url": "https://github.com/miguelmota"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/miguelmota/jquery-clearinput/blob/master/LICENSE.md",
+  }],
+  "dependencies": {
+    "jquery": ">=1.9.1"
+  },
+  "description": "A simple jQuery plugin to clear input fields",
+  "keywords": ["clear", "input", "field"],
+  "homepage": "https://github.com/miguelmota/jquery-clearinput",
+  "docs": "https://github.com/miguelmota/jquery-clearinput",
+  "demo": "https://github.com/miguelmota/jquery-clearinput",
+  "bugs": "https://github.com/miguelmota/jquery-clearinput/issues"
+}
