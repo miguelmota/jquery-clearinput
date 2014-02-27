@@ -35,7 +35,7 @@ $('[data-clearable]').clearinput({
 Options:
 
 callback      : {function} - executes after each clear
-iconClass     : {string} - class for icon div
+iconClass     : {string} - class for clear icon link
 focusOnClear  : {bool} - focus input after each clear
 ```
 
