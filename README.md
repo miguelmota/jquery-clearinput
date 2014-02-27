@@ -2,7 +2,13 @@
 
 A simple jQuery plugin to clear input fields
 
+## Demo
+
+[http://lab.miguelmota.com/jquery-clearinput/demo/](http://lab.miguelmota.com/jquery-clearinput/demo/)
+
 ## Install 
+
+Available via [bower](http://bower.io/)
 
 ```bash
 bower install jquery-clearinput
@@ -35,8 +41,8 @@ $('[data-clearable]').clearinput({
 Options:
 
 callback      : {function} - executes after each clear
-iconClass     : {string} - class for clear icon link
-focusOnClear  : {bool} - focus input after each clear
+iconClass     : {string} - class for clear icon link  default: 'clearinput'
+focusOnClear  : {bool} - focus input after each clear. default: false
 ```
 
 # License
