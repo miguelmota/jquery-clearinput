@@ -4,7 +4,7 @@ A simple jQuery plugin to clear input fields
 
 ## Demo
 
-[http://lab.miguelmota.com/jquery-clearinput/demo/](http://lab.miguelmota.com/jquery-clearinput/demo/)
+[http://lab.miguelmota.com/jquery-clearinput](http://lab.miguelmota.com/jquery-clearinput)
 
 ## Install 
 
