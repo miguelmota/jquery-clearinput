@@ -42,7 +42,7 @@ Options:
 
 callback      : {function} - executes after each clear
 iconClass     : {string} - class for clear icon link  default: 'clearinput'
-focusOnClear  : {bool} - focus input after each clear. default: false
+focusOnClear  : {bool} - focus input after each clear. default: true
 ```
 
 # License
